@@ -1,8 +1,12 @@
 package com.pbs.PBshop.Activities
 
+import android.app.NotificationChannel
+import android.app.NotificationManager
 import android.content.Intent
+import android.os.Build
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.google.firebase.messaging.FirebaseMessaging
 import com.pbs.PBshop.Activities.Clientes.ListaClientes
 import com.pbs.PBshop.Activities.Clientes.verCliente
 import com.pbs.PBshop.Activities.Folios.ListaFolios
@@ -15,6 +19,7 @@ class Menu : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_menu)
+        supportActionBar!!.title = "Bienvenido"
 
         if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.O){
             var channel = NotificationChannel("MyNotifications", "MyNotifications", NotificationManager.IMPORTANCE_DEFAULT)
@@ -28,11 +33,11 @@ class Menu : AppCompatActivity() {
                 if (!task.isSuccessful) {
                     msg = "Failed"
                 }
-                Toast.makeText(baseContext, msg, Toast.LENGTH_SHORT).show()
+//                Toast.makeText(baseContext, msg, Toast.LENGTH_SHORT).show()
             }
 
 
-        nc.setOnClickListener {
+        nuevo_cliente.setOnClickListener {
             val intent = Intent(this, verCliente::class.java)
             intent.putExtra("iden","-1")
             intent.putExtra("name","")
@@ -43,38 +48,38 @@ class Menu : AppCompatActivity() {
             startActivity(intent)
         }
 
-        tc.setOnClickListener {
-            val intent = Intent(this, ListaClientes::class.java)
-            intent.putExtra("origen","menu")
-            startActivity(intent)
-        }
+//        tc.setOnClickListener {
+//            val intent = Intent(this, ListaClientes::class.java)
+//            intent.putExtra("origen","menu")
+//            startActivity(intent)
+//        }
 
-        nf.setOnClickListener {
+        nuevo_folio.setOnClickListener {
             val intent = Intent(this, verFolio::class.java)
             intent.putExtra("iden","-1")
             startActivity(intent)
         }
 
-        tf.setOnClickListener {
-            val intent = Intent(this, ListaFolios::class.java)
-            intent.putExtra("origen","todos")
-            startActivity(intent)
-        }
-        espera.setOnClickListener {
-            val intent = Intent(this, ListaFolios::class.java)
-            intent.putExtra("origen","espera")
-            startActivity(intent)
-        }
-        proceso.setOnClickListener {
-            val intent = Intent(this, ListaFolios::class.java)
-            intent.putExtra("origen","proceso")
-            startActivity(intent)
-        }
-        terminados.setOnClickListener {
-            val intent = Intent(this, ListaFolios::class.java)
-            intent.putExtra("origen","terminados")
-            startActivity(intent)
-        }
+//        tf.setOnClickListener {
+//            val intent = Intent(this, ListaFolios::class.java)
+//            intent.putExtra("origen","todos")
+//            startActivity(intent)
+//        }
+//        espera.setOnClickListener {
+//            val intent = Intent(this, ListaFolios::class.java)
+//            intent.putExtra("origen","espera")
+//            startActivity(intent)
+//        }
+//        proceso.setOnClickListener {
+//            val intent = Intent(this, ListaFolios::class.java)
+//            intent.putExtra("origen","proceso")
+//            startActivity(intent)
+//        }
+//        terminados.setOnClickListener {
+//            val intent = Intent(this, ListaFolios::class.java)
+//            intent.putExtra("origen","terminados")
+//            startActivity(intent)
+//        }
 
     }
      public fun delivery(){
