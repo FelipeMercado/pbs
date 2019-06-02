@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">336439495698-q9ihp3e16qm5l2cilsrnvfmkajrurb1m.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://pbshop-c7066.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">336439495698</string>
+    <string name="google_api_key" translatable="false">AIzaSyCoeoQV8rOfa-yeZB8iuOsgr2r9QVyNM2k</string>
+    <string name="google_app_id" translatable="false">1:336439495698:android:be90ac182c19c7e8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCoeoQV8rOfa-yeZB8iuOsgr2r9QVyNM2k</string>
+    <string name="google_storage_bucket" translatable="false">pbshop-c7066.appspot.com</string>
+    <string name="project_id" translatable="false">pbshop-c7066</string>
+</resources>

@@ -16,6 +16,22 @@ class Menu : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_menu)
 
+        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.O){
+            var channel = NotificationChannel("MyNotifications", "MyNotifications", NotificationManager.IMPORTANCE_DEFAULT)
+            var manager: NotificationManager = getSystemService(NotificationManager::class.java)
+            manager.createNotificationChannel(channel)
+        }
+
+        FirebaseMessaging.getInstance().subscribeToTopic("general")
+            .addOnCompleteListener { task ->
+                var msg = "Succesfull"
+                if (!task.isSuccessful) {
+                    msg = "Failed"
+                }
+                Toast.makeText(baseContext, msg, Toast.LENGTH_SHORT).show()
+            }
+
+
         nc.setOnClickListener {
             val intent = Intent(this, verCliente::class.java)
             intent.putExtra("iden","-1")
@@ -27,24 +43,17 @@ class Menu : AppCompatActivity() {
             startActivity(intent)
         }
 
-
         tc.setOnClickListener {
             val intent = Intent(this, ListaClientes::class.java)
             intent.putExtra("origen","menu")
             startActivity(intent)
         }
 
-
-
-
-
-
         nf.setOnClickListener {
             val intent = Intent(this, verFolio::class.java)
             intent.putExtra("iden","-1")
             startActivity(intent)
         }
-
 
         tf.setOnClickListener {
             val intent = Intent(this, ListaFolios::class.java)
@@ -67,13 +76,9 @@ class Menu : AppCompatActivity() {
             startActivity(intent)
         }
 
-
-
     }
      public fun delivery(){
         val intent = Intent(this, verCliente::class.java)
-
         startActivity(intent)
-
     }
 }
