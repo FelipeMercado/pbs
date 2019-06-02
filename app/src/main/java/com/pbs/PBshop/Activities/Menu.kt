@@ -6,6 +6,7 @@ import android.content.Intent
 import android.os.Build
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import com.google.firebase.messaging.FirebaseMessaging
 import com.pbs.PBshop.Activities.Clientes.ListaClientes
 import com.pbs.PBshop.Activities.Clientes.verCliente
@@ -33,7 +34,7 @@ class Menu : AppCompatActivity() {
                 if (!task.isSuccessful) {
                     msg = "Failed"
                 }
-//                Toast.makeText(baseContext, msg, Toast.LENGTH_SHORT).show()
+                Toast.makeText(baseContext, msg, Toast.LENGTH_SHORT).show()
             }
 
 
