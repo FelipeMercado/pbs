@@ -16,38 +16,61 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal" android:background="@android:color/white">
 
-        <ImageView
-                android:layout_width="285dp"
-                android:layout_height="wrap_content" tools:srcCompat="@tools:sample/avatars"
-                android:id="@+id/imagenFolio" android:layout_weight="1"/>
         <LinearLayout
                 android:orientation="vertical"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" android:layout_weight="1">
             <TextView
-                    android:id="@+id/clienteSelec"
-                    android:layout_width="225dp"
-                    android:layout_height="87dp"
+                    android:id="@+id/clienteS"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:text="Owner of the car"
+                    android:paddingLeft="5dp"
                     android:textColor="@color/colorPrimaryDark"
                     android:gravity="bottom"
                     android:textAppearance="@style/TextAppearance.AppCompat.Title"/>
             <TextView
-                    android:id="@+id/carroname"
+                    android:id="@+id/carBrand"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="The name of the car"
+                    android:text="The brand of the car"
                     android:gravity="bottom"
+                    android:paddingLeft="15dp"
+
                     android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button"
                     android:textColor="@android:color/holo_blue_dark"/>
+
+            <TextView
+                    android:id="@+id/model"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Model of the car"
+                    android:paddingLeft="15dp"
+
+                    android:gravity="bottom"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button"
+                    android:textColor="@android:color/holo_blue_dark" android:textSize="10sp"/>
             <TextView
                     android:id="@+id/status"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="The state of the car"
+                    android:paddingLeft="15dp"
+
                     android:gravity="bottom"
                     android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button"
-                    android:textColor="@color/cardview_dark_background" android:textSize="10sp"/>/>
+                    android:textColor="@color/cardview_dark_background" android:textSize="10sp"/>
+            <TextView
+                    android:id="@+id/identificador"
+                    android:text=""
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:visibility="invisible"
+                    android:gravity="bottom"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button"
+                    android:textColor="@android:color/holo_blue_dark"/>
+            />
+
         </LinearLayout>
 
 

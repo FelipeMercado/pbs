@@ -15,6 +15,7 @@ import com.pbs.PBshop.R
 class ClienteAdapter(private val listaCliente: List<Cliente>,val origen:String): RecyclerView.Adapter<ClienteAdapter.ViewHolder>() {
      override fun onCreateViewHolder(parent: ViewGroup, p1: Int): ClienteAdapter.ViewHolder {
        val view =LayoutInflater.from(parent.context).inflate(R.layout.list_item,parent,false)
+         print(origen)
         return ViewHolder(view)
 
 

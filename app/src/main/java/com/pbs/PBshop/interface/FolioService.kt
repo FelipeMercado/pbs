@@ -10,17 +10,17 @@ interface FolioService {
 
     // @GET("/api/folios")  final
     //prueba
-    @GET("/get/workshops")
+    @GET("/api/workshops")
     fun getListaFolio(): Call<List<Folio>>
 
-    @GET("/get/workshops/id")
+    @GET("/api/workshops/id")
     fun getFolio(@Path("id")id:Int): Call<Folio>
 
-    @POST("folios")
+    @POST("workshop/create")
     fun addFolio(@Body newFolio: Folio): Call<Folio>
 
     @FormUrlEncoded
-    @PUT("folios/{id}")
+    @PUT("workshop/{id}")
     fun updateFolio(
 
     ): Call<Folio>

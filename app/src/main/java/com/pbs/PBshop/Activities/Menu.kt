@@ -34,6 +34,11 @@ class Menu : AppCompatActivity() {
             startActivity(intent)
         }
 
+
+
+
+
+
         nf.setOnClickListener {
             val intent = Intent(this, verFolio::class.java)
             intent.putExtra("iden","-1")
@@ -43,6 +48,22 @@ class Menu : AppCompatActivity() {
 
         tf.setOnClickListener {
             val intent = Intent(this, ListaFolios::class.java)
+            intent.putExtra("origen","todos")
+            startActivity(intent)
+        }
+        espera.setOnClickListener {
+            val intent = Intent(this, ListaFolios::class.java)
+            intent.putExtra("origen","espera")
+            startActivity(intent)
+        }
+        proceso.setOnClickListener {
+            val intent = Intent(this, ListaFolios::class.java)
+            intent.putExtra("origen","proceso")
+            startActivity(intent)
+        }
+        terminados.setOnClickListener {
+            val intent = Intent(this, ListaFolios::class.java)
+            intent.putExtra("origen","terminados")
             startActivity(intent)
         }
 

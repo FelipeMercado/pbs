@@ -18,8 +18,8 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int large = 0x7f070062;
-        public static final int small = 0x7f07009b;
+        public static final int large = 0x7f070067;
+        public static final int small = 0x7f0700a6;
     }
     public static final class string {
         private string() {}
