@@ -8,6 +8,9 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
+import com.amazonaws.mobile.client.AWSMobileClient
+import com.amazonaws.mobile.client.AWSStartupHandler
+import com.amazonaws.mobile.client.AWSStartupResult
 import com.google.firebase.messaging.FirebaseMessaging
 import com.pbs.PBshop.Activities.Clientes.ListaClientes
 import com.pbs.PBshop.Activities.Clientes.verCliente

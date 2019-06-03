@@ -24,9 +24,9 @@ public final class R {
     public static final class string {
         private string() {}
 
-        public static final int sign_in_canceled_message_format = 0x7f0b0045;
-        public static final int sign_in_failure_dialog_title = 0x7f0b0046;
-        public static final int sign_in_failure_message_format = 0x7f0b0047;
+        public static final int sign_in_canceled_message_format = 0x7f0c0045;
+        public static final int sign_in_failure_dialog_title = 0x7f0c0046;
+        public static final int sign_in_failure_message_format = 0x7f0c0047;
     }
     public static final class styleable {
         private styleable() {}

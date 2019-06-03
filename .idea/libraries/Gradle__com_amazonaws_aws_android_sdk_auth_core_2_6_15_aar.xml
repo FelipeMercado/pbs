@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-android-sdk-auth-core:2.6.15@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0018b988cbd3b2ccd82f1970fc2509b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0018b988cbd3b2ccd82f1970fc2509b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-auth-core/2.6.15/99160ddd45755d61b4aaf72761a49214a572fc39/aws-android-sdk-auth-core-2.6.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
