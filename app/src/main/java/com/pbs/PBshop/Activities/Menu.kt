@@ -6,6 +6,7 @@ import android.content.Intent
 import android.os.Build
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.Toast
 import com.google.firebase.messaging.FirebaseMessaging
 import com.pbs.PBshop.Activities.Clientes.ListaClientes
@@ -34,7 +35,7 @@ class Menu : AppCompatActivity() {
                 if (!task.isSuccessful) {
                     msg = "Failed"
                 }
-                Toast.makeText(baseContext, msg, Toast.LENGTH_SHORT).show()
+                Log.d("Firebase instance",msg)
             }
 
 

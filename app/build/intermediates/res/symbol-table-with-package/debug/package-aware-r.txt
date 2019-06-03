@@ -710,6 +710,8 @@ drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable ic_collections_black_24dp
+drawable ic_collections_grey_300_24dp
 drawable ic_directions_car_black_48dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -774,6 +776,7 @@ id bottom
 id btn_choose_file
 id btn_download
 id btn_upload
+id buttonFoto
 id buttonPanel
 id cA
 id cancel_action
@@ -791,6 +794,7 @@ id clip_vertical
 id collapseActionView
 id content
 id contentPanel
+id content_img
 id custom
 id customPanel
 id dark
@@ -801,6 +805,7 @@ id dimensions
 id direct
 id disableHome
 id edit_query
+id edit_text_tarea
 id edt_file_name
 id email
 id emailE
@@ -923,8 +928,6 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textView5
 id textView7
-id textView8
-id textView9
 id time
 id title
 id titleDividerNoCustom
@@ -1004,6 +1007,7 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout nueva_tarea
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material

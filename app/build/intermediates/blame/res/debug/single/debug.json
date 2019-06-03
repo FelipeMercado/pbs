@@ -88,6 +88,10 @@
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\5edef43662635933eb81fc2b19e3c10f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
+        "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_collections_black_24dp.png.flat",
+        "source": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_collections_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\5edef43662635933eb81fc2b19e3c10f\\res\\drawable\\abc_cab_background_top_material.xml"
     },
@@ -436,6 +440,10 @@
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4a0ab82c8f4dc7b02d6f5435f849b125\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
+        "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_collections_black_24dp.png.flat",
+        "source": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\src\\main\\res\\drawable-xxhdpi\\ic_collections_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\5edef43662635933eb81fc2b19e3c10f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
@@ -482,6 +490,10 @@
     {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\5edef43662635933eb81fc2b19e3c10f\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_collections_grey_300_24dp.png.flat",
+        "source": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\src\\main\\res\\drawable-xhdpi\\ic_collections_grey_300_24dp.png"
     },
     {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -584,6 +596,10 @@
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0677e7993515768e35f9404af9b59094\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_collections_black_24dp.png.flat",
+        "source": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\src\\main\\res\\drawable-xhdpi\\ic_collections_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\5edef43662635933eb81fc2b19e3c10f\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
@@ -618,6 +634,10 @@
     {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\5edef43662635933eb81fc2b19e3c10f\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_collections_black_24dp.png.flat",
+        "source": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\src\\main\\res\\drawable-hdpi\\ic_collections_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -670,6 +690,10 @@
     {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\5edef43662635933eb81fc2b19e3c10f\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_collections_grey_300_24dp.png.flat",
+        "source": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\src\\main\\res\\drawable-xxhdpi\\ic_collections_grey_300_24dp.png"
     },
     {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -1176,6 +1200,10 @@
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\5edef43662635933eb81fc2b19e3c10f\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_collections_black_24dp.png.flat",
+        "source": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\src\\main\\res\\drawable-mdpi\\ic_collections_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_directions_car_black_48dp.png.flat",
         "source": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\src\\main\\res\\drawable-hdpi\\ic_directions_car_black_48dp.png"
     },
@@ -1218,6 +1246,10 @@
     {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0677e7993515768e35f9404af9b59094\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_collections_grey_300_24dp.png.flat",
+        "source": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_collections_grey_300_24dp.png"
     },
     {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
@@ -1720,6 +1752,10 @@
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4a0ab82c8f4dc7b02d6f5435f849b125\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
     {
+        "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_collections_grey_300_24dp.png.flat",
+        "source": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\src\\main\\res\\drawable-hdpi\\ic_collections_grey_300_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\5edef43662635933eb81fc2b19e3c10f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
@@ -1746,6 +1782,10 @@
     {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\5edef43662635933eb81fc2b19e3c10f\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\layout_nueva_tarea.xml.flat",
+        "source": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\src\\main\\res\\layout\\nueva_tarea.xml"
     },
     {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -1842,6 +1882,10 @@
     {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
         "source": "C:\\Users\\Antonio Valle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\5edef43662635933eb81fc2b19e3c10f\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_collections_grey_300_24dp.png.flat",
+        "source": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\src\\main\\res\\drawable-mdpi\\ic_collections_grey_300_24dp.png"
     },
     {
         "merged": "C:\\Users\\Antonio Valle\\AndroidStudioProjects\\pbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",

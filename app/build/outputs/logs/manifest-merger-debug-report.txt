@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-51:12
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-52:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Antonio Valle\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5edef43662635933eb81fc2b19e3c10f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Antonio Valle\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\feb8e14c39cb339e84e829f05e6be377\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Antonio Valle\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\a8afb216d9de6b0db6d80eeff6b97dc9\AndroidManifest.xml:17:1-37:12
@@ -48,20 +48,20 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Antonio Valle\.grad
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Antonio Valle\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\15c9c33a55b8509c8be1c6801c56f06b\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Antonio Valle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aeb4e96287ceb32df43af26c3d4f5705\AndroidManifest.xml:17:1-22:12
 MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.7] C:\Users\Antonio Valle\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.6.7.aar\0f8aa8867f428906a8bb4dca6f5ac6bd\AndroidManifest.xml:2:1-4:12
-INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-52:12
 	package
 		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:3:11-35
 		INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-51:12
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-52:12
 		INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-51:12
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-52:12
 		INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:11-69
@@ -85,8 +85,12 @@ uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:8:5-79
 	android:name
 		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:9:22-62
 application
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:10:5-49:19
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:11:5-50:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Antonio Valle\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\feb8e14c39cb339e84e829f05e6be377\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Antonio Valle\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\feb8e14c39cb339e84e829f05e6be377\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Antonio Valle\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\a8afb216d9de6b0db6d80eeff6b97dc9\AndroidManifest.xml:22:5-35:19
@@ -120,77 +124,77 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Antonio Va
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Antonio Valle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9069e767f09f87daa299065dff0424d8\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:15:13-39
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:16:13-39
 	android:label
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:13:13-45
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:14:13-45
 	android:roundIcon
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:14:13-58
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:15:13-58
 	android:icon
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:12:13-47
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:13:13-47
 	android:allowBackup
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:11:13-39
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:12:13-39
 	android:theme
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:16:13-44
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:17:13-44
 activity#com.pbs.PBshop.Activities.PruebaFotos
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:17:9-18:20
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:18:9-19:20
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:17:19-57
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:18:19-57
 activity#com.pbs.PBshop.Activities.Folios.ListaFolios
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:19:9-20:20
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:20:9-21:20
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:19:19-64
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:20:19-64
 activity#com.pbs.PBshop.Activities.Folios.verFolio
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:21:9-22:20
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:22:9-23:20
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:21:19-61
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:22:19-61
 activity#com.pbs.PBshop.Activities.Folios.Folio
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:23:9-24:20
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:24:9-25:20
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:23:19-58
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:24:19-58
 activity#com.pbs.PBshop.Activities.Clientes.ListaClientes
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:25:9-26:20
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:26:9-27:20
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:25:19-68
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:26:19-68
 activity#com.pbs.PBshop.Activities.Clientes.verCliente
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:27:9-28:20
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:28:9-29:20
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:27:19-65
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:28:19-65
 activity#com.pbs.PBshop.Activities.Menu
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:29:9-30:20
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:30:9-31:20
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:29:19-50
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:30:19-50
 activity#com.pbs.PBshop.Activities.MainActivity
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:31:9-37:20
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:32:9-38:20
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:31:19-58
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:32:19-58
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:32:13-36:29
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:33:13-37:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:33:17-68
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:34:17-68
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:35:17-76
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:36:17-76
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:36:27-74
 service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:39:9-41:41
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:40:9-42:41
 	android:enabled
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:41:17-39
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:42:17-39
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:40:17-97
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:41:17-97
 service#com.pbs.PBshop.Servicios.ServicioNotificaciones
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:42:9-48:19
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:43:9-49:19
 	android:exported
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:44:17-41
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:45:17-41
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:43:17-65
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:44:17-65
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:45:13-47:29
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:46:13-48:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:46:17-77
+ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:47:17-77
 	android:name
-		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:46:25-75
+		ADDED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:47:25-75
 uses-sdk
 INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml
@@ -306,7 +310,7 @@ ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Antonio Valle\.gradle
 	android:name
 		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Antonio Valle\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\25c2990217cfce47735caacbb8a28f97\AndroidManifest.xml:9:13-64
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-51:12 reason: com.amazonaws.mobile.client has a targetSdkVersion < 4
+IMPLIED from C:\Users\Antonio Valle\AndroidStudioProjects\pbs\app\src\main\AndroidManifest.xml:2:1-52:12 reason: com.amazonaws.mobile.client has a targetSdkVersion < 4
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Antonio Valle\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\c26e92b60655635c16b25d94c45f1b36\AndroidManifest.xml:24:5-68
 	android:name

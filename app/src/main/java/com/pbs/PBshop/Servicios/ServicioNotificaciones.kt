@@ -10,16 +10,22 @@ import com.google.firebase.messaging.FirebaseMessagingService
 import com.google.firebase.messaging.RemoteMessage
 import com.pbs.PBshop.BuildConfig
 import com.pbs.PBshop.R
+import java.lang.Exception
 
 class ServicioNotificaciones: FirebaseMessagingService() {
 
     override fun onMessageReceived(remoteMessage: RemoteMessage?) {
         super.onMessageReceived(remoteMessage)
 
-        val title: String? = remoteMessage!!.notification!!.title
-        val message: String? = remoteMessage!!.notification!!.body
+        try{
+            val title: String? = remoteMessage!!.notification!!.title
+            val message: String? = remoteMessage!!.notification!!.body
 
-        showNotification(title,message)
+            showNotification(title,message)
+
+        }catch (e: Exception){
+            Log.e("onMessageReceived","trono")
+        }
     }
 
     fun showNotification(title: String?, message: String?) {
